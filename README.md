@@ -110,6 +110,9 @@
 ---
 
 ### 6. 주요 코드 및 설명
+project_code: dsr_rokey/pick_and_place_voice
+
+-주요 동작 코드
 ![robot_control](https://github.com/daeyeong-choi/Bellpepper-Harvest-System-with-co-robot/blob/main/robot_control_final.py)
 
 ```python
